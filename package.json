@@ -1,0 +1,19 @@
+{
+  "name": "hardhat-fork-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rbangre-halliday/hardhat-fork-example.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/mocha": "^10.0.10",
+    "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^16.4.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2",
+    "yarn": "^1.22.22"
+  }
+}
