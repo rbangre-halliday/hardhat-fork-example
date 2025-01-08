@@ -6,7 +6,9 @@
   "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/chai": "^5.0.1",
     "@types/mocha": "^10.0.10",
+    "chai": "^4.3.7",
     "hardhat": "^2.22.17"
   },
   "dependencies": {
